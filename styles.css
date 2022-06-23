@@ -1,0 +1,42 @@
+body
+{
+   width: 100%;
+}
+.main-background
+{
+    padding: 100px;
+    background-color:hsl(212, 45%, 89%);
+    width: 1315px;
+    padding:  90px; 
+    height: 550px;  
+}
+.qr-bg
+{
+    border-radius: 14px;
+    background-color: white;
+    width: 250px;
+    margin: 0 auto;
+
+}
+
+img
+{
+    border-radius: 25px;
+    padding: 13px;
+    padding-top: 10px;
+    width: 225px;
+}
+p
+{
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.light-text
+{
+    font-weight: lighter;
+    color: rgb(172, 172, 172);
+    text-align: left;
+}
